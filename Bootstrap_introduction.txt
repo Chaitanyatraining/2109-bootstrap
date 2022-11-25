@@ -1,0 +1,35 @@
+what is reponsiveness?
+    -  A webpage can be adjusted their design as per the device viewport.
+
+
+what is bootstrap?
+    - A mobile first framework for the responsivness.
+
+Advantages of using bootstrap   
+    - Browser compatablity
+    - responsive layout
+    - speed up the development
+    - compatable for maximum devices available in the market
+    - easy to learn
+    - very less size
+    - Improves the performance
+    - less number of css and html 
+
+Why to use Bootstrap?
+    - open source front end framework for fast web development
+    - premade HTML/CSS templates and classes
+    - javascript widgets and plugins
+
+
+features of Bootstrap   
+    - Grid System
+        - fluid/flex container
+        - fixed layout
+    - Typography
+    - jumbotrans
+    - Tables
+    - accordians
+    - flex layout
+    - forms
+    - navbars
+    - fixed navbars
